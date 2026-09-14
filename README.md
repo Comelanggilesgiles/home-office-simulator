@@ -21,9 +21,8 @@ It also doubles as a learning reference for building a non-trivial Three.js scen
 
 ## Screenshot
 
-![Home Office and Kitchen Simulator screenshot](docs/screenshot.png)
+![Home Office and Kitchen Simulator screenshot](/home-office-simulator/docs/home.png)
 
-*(Replace `docs/screenshot.png` with an actual screenshot of the running app.)*
 
 ## Tech stack
 

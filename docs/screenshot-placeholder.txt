@@ -1,5 +1,0 @@
-Place a screenshot of the running app here as `screenshot.png`.
-
-Suggested shot: the Overview camera view, dusk lighting, with a few
-pieces of furniture placed, so the README preview shows the room, the
-control panel, and the character in one image.
