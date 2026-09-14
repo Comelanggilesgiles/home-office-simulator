@@ -21,7 +21,7 @@ It also doubles as a learning reference for building a non-trivial Three.js scen
 
 ## Screenshot
 
-![Home Office and Kitchen Simulator screenshot](/home-office-simulator/docs/home.png)
+![Home Office and Kitchen Simulator screenshot](docs/home.png)
 
 
 ## Tech stack
